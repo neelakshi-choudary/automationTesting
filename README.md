@@ -7,4 +7,6 @@ Programming Language: Java
 Framework: TestNG
 IDE: Eclipse
 
-Note: Automation files to be found in Java Project1/src/com/tng/demotest/Test1.java in src folder. My machine had some environment configuration issues, Please verify the code. 
+Note: Automation files to be found in Java Project1/src/com/tng/demotest/Test1.java in src folder.
+
+I have executed the code in my local machine using command prompt arguments. My machine had some environment configuration issues, Please verify the code from Java Project1/src/com/tng/demotest/Test1.java
