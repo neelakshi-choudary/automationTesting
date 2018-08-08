@@ -1,2 +1,1 @@
-# automationTesting
-repo for testing 
+Total Time taken to complete: 2 hours
